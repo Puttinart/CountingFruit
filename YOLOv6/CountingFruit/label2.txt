@@ -1,0 +1,10 @@
+b01.jpg 18
+b02.jpg 2
+b03.jpg 16
+b04.jpg 3
+b05.jpg 9
+b06.jpg 8
+b07.jpg 9
+b08.jpg 5
+b09.jpg 3
+b10.jpg 8
